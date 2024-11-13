@@ -12,23 +12,18 @@
 
 ## Introducción
 
-¡Bienvenido a Vic Firt!
-Imagina una solución perfecta para conseguir los productos mas reconditos para la percusion. En Vic Firt, hemos creado algo único que te ayudará a encontrar ese instrumento de percusion especial de manera rápida, fácil y efectiva.
+Colombia es un destino lleno de magia, diversidad y cultura. En nuestro blog de viajes, te llevamos a recorrer los rincones más sorprendentes de este hermoso país, desde las playas del Caribe hasta las montañas de los Andes, pasando por la selva amazónica y los vibrantes pueblos coloniales. Aquí encontrarás guías prácticas, recomendaciones locales, consejos de viaje y relatos que te inspirarán a descubrir la riqueza natural, histórica y cultural de Colombia. Si estás listo para explorar los colores, los sabores y las tradiciones de Colombia, acompáñanos en esta aventura única. ¡Tu próxima escapada colombiana comienza aquí!
 
-¿Por qué elegirnos? Porque sabemos que tu tiempo es valioso y tu experiencia en línea debe ser sin complicaciones. Con nuestra plataforma, podrás disfrutar de personalizacion de instrumentos, compras inmediatas, envio a tu puerta y entregas sin costo, todo desde la comodidad de tu dispositivo, en cualquier lugar y en cualquier momento.
-
-¡Es momento de dar el siguiente paso! Únete a miles de usuarios satisfechos y descubre cómo podemos hacer tu vida más fácil.
 ## Estructura de la Landing Page
 
 La landing page está estructurada de manera simple pero efectiva. Su diseño incluye los siguientes componentes principales:
 
-- **Encabezado**: Contiene un menu con diferentes opciones de navegacion.
-- **Banner**: Detacando un diseño moderno dirigido a musicos aficionados y profesionales.
-- **Tabla de productos**: Los productos destacados y mas comercializados por la pagina con su respectiva descripcion.
+- **Encabezado**: Contiene un menu con diferentes opciones de navegacion que te permiten visualizar perfil, o enviar correo al creador del blog.
+- **Card Section**: Tarjetas de destinos colombianos: Cada tarjeta contiene una imagen representativa de un destino turístico, una breve descripción del lugar y la fecha en que se realizó la visita. Esta sección tendrá varias tarjetas para destacar diferentes destinos dentro de Colombia.
 
 ## Visualización
 
-La página web de Vic Firth ofrece una experiencia visual limpia, moderna y altamente funcional. Con un diseño intuitivo, la página destaca por su disposición bien estructurada, donde los colores sobrios y las imágenes de alta calidad se combinan para reflejar la excelencia de la marca. Al ingresar al sitio, los usuarios son recibidos con una interfaz visualmente atractiva que resalta los productos de percusión de alta gama, mientras que los elementos de navegación son fáciles de encontrar y utilizar. La disposición de las secciones está pensada para guiar al visitante de manera fluida a través de las categorías de productos, información sobre la marca, y recursos educativos, todo en un formato responsivo que se adapta perfectamente a dispositivos móviles y de escritorio, asegurando una experiencia agradable sin importar el dispositivo;
+En resumen, la landing page ofrece una experiencia visualmente atractiva, con énfasis en las imágenes de destinos colombianos, y es completamente funcional y accesible desde cualquier dispositivo. El diseño está pensado para ser fácil de navegar y captar la atención del usuario.
 
 [BLOG](https://dani-el97.github.io/Mi-blog-viajero/)
 
