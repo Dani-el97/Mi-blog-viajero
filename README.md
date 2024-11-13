@@ -28,8 +28,9 @@ La landing page está estructurada de manera simple pero efectiva. Su diseño in
 
 ## Visualización
 
-La página web de Vic Firth ofrece una experiencia visual limpia, moderna y altamente funcional. Con un diseño intuitivo, la página destaca por su disposición bien estructurada, donde los colores sobrios y las imágenes de alta calidad se combinan para reflejar la excelencia de la marca. Al ingresar al sitio, los usuarios son recibidos con una interfaz visualmente atractiva que resalta los productos de percusión de alta gama, mientras que los elementos de navegación son fáciles de encontrar y utilizar. La disposición de las secciones está pensada para guiar al visitante de manera fluida a través de las categorías de productos, información sobre la marca, y recursos educativos, todo en un formato responsivo que se adapta perfectamente a dispositivos móviles y de escritorio, asegurando una experiencia agradable sin importar el dispositivo.
-[BLOG] (https://dani-el97.github.io/Mi-blog-viajero/)
+La página web de Vic Firth ofrece una experiencia visual limpia, moderna y altamente funcional. Con un diseño intuitivo, la página destaca por su disposición bien estructurada, donde los colores sobrios y las imágenes de alta calidad se combinan para reflejar la excelencia de la marca. Al ingresar al sitio, los usuarios son recibidos con una interfaz visualmente atractiva que resalta los productos de percusión de alta gama, mientras que los elementos de navegación son fáciles de encontrar y utilizar. La disposición de las secciones está pensada para guiar al visitante de manera fluida a través de las categorías de productos, información sobre la marca, y recursos educativos, todo en un formato responsivo que se adapta perfectamente a dispositivos móviles y de escritorio, asegurando una experiencia agradable sin importar el dispositivo;
+
+[BLOG](https://dani-el97.github.io/Mi-blog-viajero/)
 
 ## Tecnologías Empleadas
 
