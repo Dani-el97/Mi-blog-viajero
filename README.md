@@ -1,9 +1,9 @@
-# Proyecto: Landing Page
+# Proyecto: Blog Viajero
 
 ## Índice de Contenido
 
 1. [Introducción](#introducción)
-2. [Estructura de la Landing Page](#estructura-de-la-landing-page)
+2. [Estructura de el Blog viajero](#estructura-de-la-landing-page)
 3. [Visualización y despliegue](#visualización)
 4. [Tecnologías Empleadas](#tecnologías-empleadas)
 5. [Codificación](#codificación)
